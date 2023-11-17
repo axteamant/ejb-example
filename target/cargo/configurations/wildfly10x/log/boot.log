@@ -1,0 +1,102 @@
+2023-11-17 16:34:38,355 INFO  [org.jboss.modules] (main) JBoss Modules version 1.5.2.Final
+2023-11-17 16:34:39,802 INFO  [org.jboss.as.cli.CommandContext] (main) {"outcome" => "success"}
+2023-11-17 16:34:39,826 INFO  [org.jboss.as.cli.CommandContext] (main) {"outcome" => "success"}
+2023-11-17 16:34:39,848 INFO  [org.jboss.as.cli.CommandContext] (main) {"outcome" => "success"}
+2023-11-17 16:34:39,868 INFO  [org.jboss.as.cli.CommandContext] (main) {"outcome" => "success"}
+2023-11-17 16:34:39,891 INFO  [org.jboss.as.cli.CommandContext] (main) {"outcome" => "success"}
+2023-11-17 16:34:46,512 INFO  [org.jboss.modules] (main) JBoss Modules version 1.5.2.Final
+2023-11-17 16:34:46,660 INFO  [org.jboss.msc] (main) JBoss MSC version 1.2.6.Final
+2023-11-17 16:34:46,722 INFO  [org.jboss.as] (MSC service thread 1-7) WFLYSRV0049: WildFly Full 10.1.0.Final (WildFly Core 2.2.0.Final) starting
+2023-11-17 16:34:46,723 DEBUG [org.jboss.as.config] (MSC service thread 1-7) Configured system properties:
+	[Standalone] = 
+	awt.toolkit = sun.awt.windows.WToolkit
+	file.encoding = Cp1252
+	file.encoding.pkg = sun.io
+	file.separator = \
+	java.awt.graphicsenv = sun.awt.Win32GraphicsEnvironment
+	java.awt.printerjob = sun.awt.windows.WPrinterJob
+	java.class.path = C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final\jboss-modules.jar
+	java.class.version = 52.0
+	java.endorsed.dirs = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\endorsed
+	java.ext.dirs = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext
+	java.home = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre
+	java.io.tmpdir = C:\Users\RAD\AppData\Local\Temp\
+	java.library.path = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\VMware\VMware Player\bin\;C:\Program Files\Amazon Corretto\jdk17.0.7_7\bin;C:\Program Files\Java\jdk-11.0.7\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Users\RAD\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Program Files\gs\gs10.01.1\bin;C:\Users\RAD\AppData\Local\Microsoft\WindowsApps;C:\Users\RAD\AppData\Roaming\nvm;C:\Program Files\nodejs;C:\Users\RAD\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files (x86)\Tesseract-OCR;C:\Users\RAD\.cargo\bin;C:\Users\RAD\scoop\shims;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;%USERPROFILE%\AppData\Local\Microsoft\WindowsApps;%NVM_HOME%;%NVM_SYMLINK%;C:\Users\RAD\AppData\Local\Programs\Microsoft VS Code\bin;D://UnLockCatch/tools/vcruntime;;.
+	java.runtime.name = OpenJDK Runtime Environment
+	java.runtime.version = 1.8.0_362-b08
+	java.specification.maintenance.version = 4
+	java.specification.name = Java Platform API Specification
+	java.specification.vendor = Oracle Corporation
+	java.specification.version = 1.8
+	java.util.logging.manager = org.jboss.logmanager.LogManager
+	java.vendor = Amazon.com Inc.
+	java.vendor.url = https://aws.amazon.com/corretto/
+	java.vendor.url.bug = https://github.com/corretto/corretto-8/issues/
+	java.version = 1.8.0_362
+	java.vm.info = mixed mode
+	java.vm.name = OpenJDK 64-Bit Server VM
+	java.vm.specification.name = Java Virtual Machine Specification
+	java.vm.specification.vendor = Oracle Corporation
+	java.vm.specification.version = 1.8
+	java.vm.vendor = Amazon.com Inc.
+	java.vm.version = 25.362-b08
+	javax.management.builder.initial = org.jboss.as.jmx.PluggableMBeanServerBuilder
+	javax.xml.datatype.DatatypeFactory = __redirected.__DatatypeFactory
+	javax.xml.parsers.DocumentBuilderFactory = __redirected.__DocumentBuilderFactory
+	javax.xml.parsers.SAXParserFactory = __redirected.__SAXParserFactory
+	javax.xml.stream.XMLEventFactory = __redirected.__XMLEventFactory
+	javax.xml.stream.XMLInputFactory = __redirected.__XMLInputFactory
+	javax.xml.stream.XMLOutputFactory = __redirected.__XMLOutputFactory
+	javax.xml.transform.TransformerFactory = __redirected.__TransformerFactory
+	javax.xml.validation.SchemaFactory:http://www.w3.org/2001/XMLSchema = __redirected.__SchemaFactory
+	javax.xml.xpath.XPathFactory:http://java.sun.com/jaxp/xpath/dom = __redirected.__XPathFactory
+	jboss.bind.address = 127.0.0.1
+	jboss.home.dir = C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final
+	jboss.host.name = laptop-m1l8qme1
+	jboss.modules.dir = C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final\modules
+	jboss.node.name = laptop-m1l8qme1
+	jboss.qualified.host.name = laptop-m1l8qme1
+	jboss.server.base.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x
+	jboss.server.config.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\configuration
+	jboss.server.data.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\data
+	jboss.server.deploy.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\content
+	jboss.server.log.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\log
+	jboss.server.name = laptop-m1l8qme1
+	jboss.server.persist.config = true
+	jboss.server.temp.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\tmp
+	line.separator = 
+
+	logging.configuration = file:/C:/Users/RAD/Desktop/ENEL/ejb-remote1/target/cargo/configurations/wildfly10x/configuration/logging.properties
+	module.path = C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final\modules
+	org.jboss.boot.log.file = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x/log/boot.log
+	org.jboss.resolver.warning = true
+	org.xml.sax.driver = __redirected.__XMLReaderFactory
+	os.arch = amd64
+	os.name = Windows 11
+	os.version = 10.0
+	path.separator = ;
+	sun.arch.data.model = 64
+	sun.boot.class.path = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\resources.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\rt.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\sunrsasign.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\jsse.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\jce.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\charsets.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\lib\jfr.jar;C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\classes
+	sun.boot.library.path = C:\Users\RAD\.jdks\corretto-1.8.0_362\jre\bin
+	sun.cpu.endian = little
+	sun.cpu.isalist = amd64
+	sun.desktop = windows
+	sun.io.unicode.encoding = UnicodeLittle
+	sun.java.command = C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final\jboss-modules.jar -mp C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final\modules org.jboss.as.standalone --server-config=standalone-full.xml
+	sun.java.launcher = SUN_STANDARD
+	sun.jnu.encoding = Cp1252
+	sun.management.compiler = HotSpot 64-Bit Tiered Compilers
+	sun.os.patch.level = 
+	user.country = IT
+	user.dir = C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x
+	user.home = C:\Users\RAD
+	user.language = it
+	user.name = RAD
+	user.script = 
+	user.timezone = Europe/Berlin
+	user.variant = 
+2023-11-17 16:34:46,724 DEBUG [org.jboss.as.config] (MSC service thread 1-7) VM Arguments: -Xms128m -Xmx512m -D[Standalone] -Dorg.jboss.boot.log.file=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x/log/boot.log -Dlogging.configuration=file:/C:/Users/RAD/Desktop/ENEL/ejb-remote1/target/cargo/configurations/wildfly10x/configuration/logging.properties -Djboss.home.dir=C:\Users\RAD\Downloads\wildfly-10.1.0.Final\wildfly-10.1.0.Final -Djboss.server.base.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x -Djboss.server.config.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\configuration -Djboss.server.data.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\data -Djboss.server.log.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\log -Djboss.server.temp.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\tmp -Djboss.server.deploy.dir=C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\content -Djboss.bind.address=127.0.0.1 
+2023-11-17 16:34:47,619 INFO  [org.jboss.as.repository] (ServerService Thread Pool -- 8) WFLYDR0001: Content added at location C:\Users\RAD\Desktop\ENEL\ejb-remote1\target\cargo\configurations\wildfly10x\content\ed\d48543b1fb22f99e64fd6d75c53388d0393501\content
+2023-11-17 16:34:47,632 INFO  [org.jboss.as.server] (Controller Boot Thread) WFLYSRV0039: Creating http management service using socket-binding (management-http)
+2023-11-17 16:34:47,646 INFO  [org.xnio] (MSC service thread 1-8) XNIO version 3.4.0.Final
+2023-11-17 16:34:47,652 INFO  [org.xnio.nio] (MSC service thread 1-8) XNIO NIO Implementation Version 3.4.0.Final

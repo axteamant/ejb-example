@@ -1,0 +1,8 @@
+test\HellowordInterface$HelloStatelessWorld.class
+test\HellowordInterface$HelloStatefulWorld.class
+test\HellowordImplementation.class
+test\HellowordInterface.class
+test\HellowordImplementation$HelloStatelessWorldBean.class
+test\HellowordImplementation$HelloStatefulWorldBean.class
+test\Config.class
+test\HomeEndpoint.class
