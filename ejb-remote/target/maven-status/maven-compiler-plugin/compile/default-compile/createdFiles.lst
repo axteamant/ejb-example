@@ -1,0 +1,4 @@
+test\ejb\HelloStatelessWorldBean.class
+test\interfaces\HelloStatefulWorld.class
+test\ejb\HelloStatefulWorldBean.class
+test\interfaces\HelloStatelessWorld.class

@@ -1,0 +1,5 @@
+test\Config.class
+test\interfaces\HelloStatefulWorld.class
+test\DemoApplication.class
+test\HomeEndpoint.class
+test\interfaces\HelloStatelessWorld.class
